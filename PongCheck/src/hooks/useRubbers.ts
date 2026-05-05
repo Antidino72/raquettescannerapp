@@ -5,7 +5,7 @@ import fallback from '../../assets/json/rubbers.json';
 
 const CACHE_KEY = 'rubbers_data';
 const CACHE_TTL = 1000 * 60 * 60; // 1 heure
-const SERVER_URL = 'https://ton-serveur.com/rubbers.json';
+const SERVER_URL = 'https://raw.githubusercontent.com/Antidino72/raquettescannerapp/main/rubbers.json';
 
 type Rubber = {
   brand: string;
