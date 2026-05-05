@@ -34,7 +34,20 @@
             "imageWidth": 76
           }
         }
-      ]
+      ],
+      [
+        "expo-file-system",
+        {
+          "supportsOpeningDocumentsInPlace": true,
+          "enableFileSharing": true
+        }
+      ],
+      ["expo-asset",
+      {
+        "rubbers": ["./assets/json/rubbers.json"]
+      }
+    
+    ]
     ],
     "experiments": {
       "typedRoutes": true,

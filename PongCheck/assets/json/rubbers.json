@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Abros",
+    "product": "Volaras 7",
+    "appr_code": "205-001",
+    "pimple_type": "In",
+    "top_sheet_colors": "Black",
+    "expires_on": null
+  },
+  {
+    "brand": "Anatta",
+    "product": "Oryza",
+    "appr_code": "220-001",
+    "pimple_type": "In",
+    "top_sheet_colors": "Red",
+    "expires_on": "Mar 31 2026"
+  },
+  {
+    "brand": "Der Materialspezialist",
+    "product": "Mega-Block",
+    "appr_code": "118-021",
+    "pimple_type": "Anti",
+    "top_sheet_colors": "Black",
+    "expires_on": null
+  },
+  {
+    "brand": "DrNeubauer",
+    "product": "Trouble Maker",
+    "appr_code": "26-032",
+    "pimple_type": "Long",
+    "top_sheet_colors": "Red",
+    "expires_on": null
+  },
+  {
+    "brand": "Yasaka",
+    "product": "Pryde 30",
+    "appr_code": "83-002",
+    "pimple_type": "In",
+    "top_sheet_colors": "Black",
+    "expires_on": "Jun 30 2026"
+  }
+]
