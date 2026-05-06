@@ -1,0 +1,4 @@
+[build]
+  base = "PongCheck"
+  command = "npm install && npx expo export --platform web"
+  publish = "dist"
